@@ -34,9 +34,9 @@ docker compose up --build
 
 | Kişi | Alan |
 |---|---|
-| Sora | Backend / Veri Modeli & Skor Motoru |
+|Arif Suat Kıvam| Backend / Veri Modeli & Skor Motoru |
 | Uğur | Backend / API & İş Mantığı |
-| Alex | Frontend / UI & Demo |
+| Alexandra | Frontend / UI & Demo |
 
 ## Branch'ler
 
